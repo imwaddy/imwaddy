@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **mayurwadekar2@gmail.com**
 
-- ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=imwaddy&show_icons=true&theme=transparent)
+# Mayur's GitHub stats
+https://github-readme-stats.vercel.app/api?username=imwaddy&show_icons=true&theme=dark
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
