@@ -72,6 +72,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mayurwadekar2" height="30" width="40" />
     </a>
     &nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/7534405/mayur-wadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/7534405/mayur-wadekar" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <br>
