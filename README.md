@@ -9,7 +9,7 @@
 
 - ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=imwaddy&show_icons=true&theme=transparent)
 
-### Blogs posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
