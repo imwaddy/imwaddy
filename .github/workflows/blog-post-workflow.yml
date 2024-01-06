@@ -1,14 +1,18 @@
 name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '* * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://medium.com/feed/@mayurwadekar2"
+on:
+  schedule: # Run workflow automatically
+    - cron: '* * * * *' # Runs every hour, on the hour
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@mayurwadekar2"
