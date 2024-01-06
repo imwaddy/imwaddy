@@ -11,6 +11,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang Empty Structs!](https://towardsdev.com/golang-empty-structs-c9942f3547b3?source=rss-7b5c85b8125------2)
+- [Golang Mux Middleware](https://towardsdev.com/golang-mux-middleware-db36981675db?source=rss-7b5c85b8125------2)
+- [Go Fuzzing](https://towardsdev.com/go-fuzzing-5dcd507f7d7?source=rss-7b5c85b8125------2)
+- [Go Generics](https://towardsdev.com/go-generics-21e063aface0?source=rss-7b5c85b8125------2)
+- [MongoDB Triggers](https://mayurwadekar2.medium.com/mongodb-triggers-e29fbf5dbc67?source=rss-7b5c85b8125------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
