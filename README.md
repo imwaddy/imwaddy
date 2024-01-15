@@ -19,8 +19,15 @@
 - [MongoDB Triggers](https://mayurwadekar2.medium.com/mongodb-triggers-e29fbf5dbc67?source=rss-7b5c85b8125------2)
 <!-- BLOG-POST-LIST:END -->
 
-
-<h2 align="center">Github stats :bar_chart:</h2>
+# Github Trophies
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=imwaddy&theme=radical&margin-h=12&margin-w=3&no-bg=false" alt="TROPHY" />
+    </a>
+</div>
+</p>
+<br>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
