@@ -92,6 +92,6 @@
 </p>
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imwaddy&show_icons=true&locale=en&compact=true" alt="imwaddy" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imwaddy&show_icons=true&locale=en&layout=compact" alt="imwaddy" /></p>
 <br>
 
