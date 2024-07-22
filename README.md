@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayur Wadekar</h1>
+<h1 align="center">Hi 👋, I'm Mayur Wadekar</h1> 
 <h3 align="center">Passionate Software Engineer with 6+ years of experience in developing web applications and backend systems. Skilled at writing clear, concise code that is easy to maintain and troubleshoot. Experienced in working with both small and large teams across multiple projects. Able to work independently of remote locations or in office environments as needed by the company.
 </h3>
 
