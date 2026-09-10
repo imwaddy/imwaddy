@@ -68,12 +68,35 @@
                Software Engineer | Go | Backend Systems | Blogger
             </p>
 
-            <p class="hero-description">
-               Passionate Software Engineer with 8+ years of experience in
-               developing web applications and backend systems. Skilled at
-               writing clear, concise code that is easy to maintain and
-               troubleshoot.
-            </p>
+            <p class="hero-description" id="experience">
+    Passionate Software Engineer with experience in developing web applications
+    and backend systems. Skilled at writing clear, concise code that is easy to
+    maintain and troubleshoot.
+</p>
+
+<script>
+    const startDate = new Date("2017-08-07");
+    const today = new Date();
+
+    let years = today.getFullYear() - startDate.getFullYear();
+
+    // If this year's anniversary hasn't happened yet, subtract 1
+    const anniversary = new Date(
+        today.getFullYear(),
+        startDate.getMonth(),
+        startDate.getDate()
+    );
+
+    if (today < anniversary) {
+        years--;
+    }
+
+    document.getElementById("experience").innerHTML =
+        `Passionate Software Engineer with ${years}+ years of experience in
+        developing web applications and backend systems. Skilled at
+        writing clear, concise code that is easy to maintain and
+        troubleshoot.`;
+</script>
 
             <div class="hero-buttons">
                <a href="#contact" class="btn btn-primary">Get In Touch</a>
